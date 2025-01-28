@@ -8,3 +8,4 @@ input = input()
 output = convertir_nombres(input)
 # output: Koonjoo, Neha; Hornung, Torben P.P; Yan, Susu; Rosen, Matthew S; Bortfeld, Thomas R
 ```
+Works well in: https://onecompiler.com/python/
